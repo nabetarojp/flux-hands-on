@@ -6,6 +6,7 @@ import io.reactivex.disposables.Disposable
 
 /**
  * Created by watanabe on 2018/01/06.
+ * View : Storeの状態に応じて結果などを画面に表示する
  */
 abstract class BaseActivity : AppCompatActivity() {
 

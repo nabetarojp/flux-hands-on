@@ -7,6 +7,7 @@ import javax.inject.Singleton
 
 /**
  * Created by watanabe on 2018/01/06.
+ * Dispatcher : ActionをStoreへと伝達する
  */
 @Singleton
 class Dispatcher @Inject constructor() {
